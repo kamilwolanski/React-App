@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3441cd5c16bb8348cd3e",
+    "revision": "e97028641309e632379c",
     "url": "/React-App/static/css/main.b832b0cd.chunk.css"
   },
   {
-    "revision": "3441cd5c16bb8348cd3e",
-    "url": "/React-App/static/js/main.b865585b.chunk.js"
+    "revision": "e97028641309e632379c",
+    "url": "/React-App/static/js/main.af609dc0.chunk.js"
   },
   {
     "revision": "0a1cf9ef188380b4f4c6",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/React-App/static/media/carabao.1b5bc8d9.jpg"
   },
   {
-    "revision": "eba2d88e9be6eae6d0ff0d6b3c1bca89",
+    "revision": "281018ecc2721d6ad9e778e862a49d04",
     "url": "/React-App/index.html"
   }
 ];
